@@ -11,3 +11,5 @@ permanently cached and should never need to be fetched again by the same
 client, even after the window is closed or the browser is restarted.
 
 Meteor 1.5 is necessary for this package to work properly.
+
+Read more about this package in the docs: https://docs.meteor.com/packages/dynamic-import.html
